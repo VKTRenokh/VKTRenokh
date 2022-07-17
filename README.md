@@ -5,7 +5,7 @@
     <a style="padding-left: 5px;" href="https://twitter.com/Enokh3?t=41AzBTk3WBqgpSpogPtmHA&s=09">
         <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="twitter">
     </a>
-    <a href="">
+    <a href="https://www.linkedin.com/in/viktor-enokh-kuptsov-9097a9245/">
         <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge">
     </a>
 </div>
