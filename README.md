@@ -3,10 +3,10 @@
 </div>
 <div id="badges" style="margin-top: 20px;" align="center">
     <a style="padding-left: 5px;" href="https://twitter.com/Enokh3?t=41AzBTk3WBqgpSpogPtmHA&s=09">
-        <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="twitter">
+        <img src="https://img.shields.io/badge/Twitter-FF4500?style=for-the-badge&logo=twitter&logoColor=white" alt="twitter">
     </a>
     <a href="https://www.linkedin.com/in/viktor-enokh-kuptsov-9097a9245/">
-        <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge">
+        <img src="https://img.shields.io/badge/LinkedIn-FF4500?logo=linkedin&logoColor=white&style=for-the-badge">
     </a>
 </div>
 
