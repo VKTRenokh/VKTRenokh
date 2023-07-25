@@ -1,7 +1,8 @@
 <hr>
 
 <div align="center" style="margin-top: 100px;">
-    <img src="https://github-readme-stats.vercel.app/api?username=VKTRenokh&appereance=dark">
+    <img src="https://github-readme-stats.vercel.app/api?username=VKTRenokh&theme=rose"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VKTRenokh&theme=rose">
 </div>
 
 <div align="center">
