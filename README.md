@@ -25,6 +25,6 @@
 </div>
 
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=VKTRenokh&theme=rose"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VKTRenokh&theme=rose">
+    <img src="https://github-readme-stats.vercel.app/api?username=VKTRenokh&theme=codeSTACKr"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VKTRenokh&theme=codeSTACKr">
 </div>
