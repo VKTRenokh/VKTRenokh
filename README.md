@@ -27,5 +27,7 @@
 <div align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=VKTRenokh&theme=codeSTACKr"/>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VKTRenokh&theme=codeSTACKr"/>
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VKTRenokh&theme=codeSTACKr">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VKTRenokh&theme=codeSTACKr"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=VKTRenokh&theme=codeSTACKr">
+
 </div>
