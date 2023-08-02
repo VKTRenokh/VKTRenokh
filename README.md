@@ -23,6 +23,7 @@
 ![lua](https://img.shields.io/badge/Lua-%232C8EBB.svg?style=for-the-badge&logo=Lua&logoColor=white)
 ![graphql](https://img.shields.io/badge/Graphql-%23DC188A.svg?style=for-the-badge&logo=SASS&logoColor=white)
 ![fastify](https://img.shields.io/badge/Fastify-%23202020.svg?style=for-the-badge&logo=SASS&logoColor=white)
+![nestjs](https://img.shields.io/badge/Nestjs-%231a1a1a.svg?style=for-the-badge&logo=SASS&logoColor=%23d9224c)
 
 </div>
 
