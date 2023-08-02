@@ -21,6 +21,7 @@
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
 ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![lua](https://img.shields.io/badge/Lua-%232C8EBB.svg?style=for-the-badge&logo=Lua&logoColor=white)
+![graphql](https://img.shields.io/badge/Graphql-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
 
 </div>
 
