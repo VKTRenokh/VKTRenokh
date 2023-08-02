@@ -24,6 +24,7 @@
 ![graphql](https://img.shields.io/badge/Graphql-%23DC188A.svg?style=for-the-badge&logo=Graphql&logoColor=white)
 ![fastify](https://img.shields.io/badge/Fastify-%23202020.svg?style=for-the-badge&logo=Fastify&logoColor=white)
 ![nestjs](https://img.shields.io/badge/Nestjs-%231a1a1a.svg?style=for-the-badge&logo=nestjs&logoColor=%23d9224c)
+![docker](https://img.shields.io/badge/Docker-%23ffffff.svg?style=for-the-badge&logo=docker&logoColor=%232496ee)
 
 </div>
 
