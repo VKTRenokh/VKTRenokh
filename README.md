@@ -25,6 +25,13 @@
 ![fastify](https://img.shields.io/badge/Fastify-%23202020.svg?style=for-the-badge&logo=Fastify&logoColor=white)
 ![nestjs](https://img.shields.io/badge/Nestjs-%231a1a1a.svg?style=for-the-badge&logo=nestjs&logoColor=%23d9224c)
 ![docker](https://img.shields.io/badge/Docker-%23ffffff.svg?style=for-the-badge&logo=docker&logoColor=%232496ee)
+![fennel](https://img.shields.io/badge/Fennel-%23DC188A.svg?style=for-the-badge&logo=fennel&logoColor=%232496ee)
+![clojure](https://img.shields.io/badge/Clojure-%23ffffff.svg?style=for-the-badge&logo=clojure&logoColor=%234ea94b)
+![neovim](https://img.shields.io/badge/neovim-%23000000.svg?style=for-the-badge&logo=neovim&logoColor=%234ea94b)
+![vim](https://img.shields.io/badge/vim-%23ffffff.svg?style=for-the-badge&logo=vim&logoColor=%234ea94b)
+![git](https://img.shields.io/badge/git-%23000000.svg?style=for-the-badge&logo=git&logoColor=%23E34F26)
+![bunjs](https://img.shields.io/badge/bun.js-%23000000.svg?style=for-the-badge&logo=bun&logoColor=%23FBF0DF)
+![esbuild](https://img.shields.io/badge/esbuild-%23000000.svg?style=for-the-badge&logo=esbuild&logoColor=%23FFCF00)
 
 </div>
 
