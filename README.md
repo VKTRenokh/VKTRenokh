@@ -1,5 +1,3 @@
-<hr>
-
 <div align="center">
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -35,9 +33,13 @@
 
 </div>
 
+---
+
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=VKTRenokh&theme=vue"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VKTRenokh&theme=vue"/>
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VKTRenokh&theme=vue"/>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=VKTRenokh&theme=vue">
+    <img src="https://github-readme-stats.vercel.app/api?username=VKTRenokh&theme=codeSTACKr"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VKTRenokh&theme=codeSTACKr"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VKTRenokh&theme=codeSTACKr"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=VKTRenokh&theme=codeSTACKr">
 </div>
+
+---
