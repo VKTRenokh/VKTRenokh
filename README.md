@@ -4,10 +4,11 @@
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
+![RxJS](https://img.shields.io/badge/rxjs-%23B7178C.svg?style=for-the-badge&logo=reactivex&logoColor=white)
 ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
@@ -30,6 +31,8 @@
 ![git](https://img.shields.io/badge/git-%23000000.svg?style=for-the-badge&logo=git&logoColor=%23E34F26)
 ![bunjs](https://img.shields.io/badge/bun.js-%23000000.svg?style=for-the-badge&logo=bun&logoColor=%23FBF0DF)
 ![esbuild](https://img.shields.io/badge/esbuild-%23000000.svg?style=for-the-badge&logo=esbuild&logoColor=%23FFCF00)
+![nginx](https://img.shields.io/badge/nginx-%23ffffff.svg?style=for-the-badge&logo=nginx&logoColor=%23019439)
+![apache2](https://img.shields.io/badge/apache2-%23ffffff.svg?style=for-the-badge&logo=apache&logoColor=%23b5204b)
 
 </div>
 
