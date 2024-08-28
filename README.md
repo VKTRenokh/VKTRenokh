@@ -4,11 +4,12 @@
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
+![Angular](https://img.shields.io/badge/angular-%23a41eec.svg?style=for-the-badge&logo=angular&logoColor=white)
 ![RxJS](https://img.shields.io/badge/rxjs-%23B7178C.svg?style=for-the-badge&logo=reactivex&logoColor=white)
 ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
+![Pinia](https://img.shields.io/badge/pinia-%2335495e.svg?style=for-the-badge&logo=pinia&logoColor=%234FC08D)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
@@ -33,6 +34,9 @@
 ![esbuild](https://img.shields.io/badge/esbuild-%23000000.svg?style=for-the-badge&logo=esbuild&logoColor=%23FFCF00)
 ![nginx](https://img.shields.io/badge/nginx-%23ffffff.svg?style=for-the-badge&logo=nginx&logoColor=%23019439)
 ![apache2](https://img.shields.io/badge/apache2-%23ffffff.svg?style=for-the-badge&logo=apache&logoColor=%23b5204b)
+![gleam](https://img.shields.io/badge/gleam-%23ffaff3.svg?style=for-the-badge&logo=gleam&logoColor=%23ffaff3)
+![zig](https://img.shields.io/badge/zig-%23111111.svg?style=for-the-badge&logo=zig&logoColor=%23f7a41d)
+![ocaml](https://img.shields.io/badge/ocaml-%23111111.svg?style=for-the-badge&logo=ocaml&logoColor=%23f7a41d)
 
 </div>
 
