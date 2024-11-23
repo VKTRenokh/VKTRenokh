@@ -38,6 +38,7 @@
 ![zig](https://img.shields.io/badge/zig-%23111111.svg?style=for-the-badge&logo=zig&logoColor=%23f7a41d)
 ![ocaml](https://img.shields.io/badge/ocaml-%23111111.svg?style=for-the-badge&logo=ocaml&logoColor=%23f7a41d)
 ![ngrx](https://img.shields.io/badge/ngrx-%23a829c3.svg?style=for-the-badge&logo=ngrx&logoColor=%23ffffff)
+![tanstack query](https://img.shields.io/badge/tanstack%20query-%23f16230.svg?style=for-the-badge)
 
 </div>
 
