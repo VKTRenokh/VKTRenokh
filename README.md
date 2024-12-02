@@ -39,6 +39,7 @@
 ![ocaml](https://img.shields.io/badge/ocaml-%23111111.svg?style=for-the-badge&logo=ocaml&logoColor=%23f7a41d)
 ![ngrx](https://img.shields.io/badge/ngrx-%23a829c3.svg?style=for-the-badge&logo=ngrx&logoColor=%23ffffff)
 ![tanstack query](https://img.shields.io/badge/tanstack%20query-%23f16230.svg?style=for-the-badge)
+![ElysiaJS](https://img.shields.io/badge/ElysiaJS-%23bbb6ff.svg?style=for-the-badge)
 
 </div>
 
