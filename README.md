@@ -47,7 +47,7 @@
 
 <div align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=VKTRenokh&theme=vue"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VKTRenokh&exclude_repo=qmk_firmware&langs_count=15&hide=shell&theme=vue"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VKTRenokh&exclude_repo=qmk_firmware&langs_count=6&hide=shell&theme=vue"/>
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VKTRenokh&theme=vue"/>
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=VKTRenokh&theme=vue">
 </div>
